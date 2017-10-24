@@ -7,7 +7,7 @@ package com.zjj.hello;
  * psvm :main函数
  * sout：System.out.println()
  *
- *测试111122233444
+ *测试1111222334446
  */
 
 public class HelloWorld {
